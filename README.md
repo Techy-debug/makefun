@@ -1,1 +1,1 @@
-# makeful
+# Simple function with test
