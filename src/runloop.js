@@ -1,5 +1,7 @@
 function runloop() {  
-  while(true){}
+  while(true){
+    runloop()
+  }
   return 1;
 }
 
